@@ -1,6 +1,8 @@
 
 const index=()=>{
   return(
-    <h1>This is index m k</h1>
+    <h1>wellcome to index page</h1>
   )
 }
+
+export default index;
