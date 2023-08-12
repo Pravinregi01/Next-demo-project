@@ -1,7 +1,7 @@
-const home =()=>{
+const news =()=>{
     return(
-        <h1>wellcome to home page</h1>
+        <h1>wellcome to news page</h1>
     )
 }
 
-export default home;
+export default news;
