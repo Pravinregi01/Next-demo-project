@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nconst two = () => {\n  return /*#__PURE__*/_jsx(\"p\", {\n    children: \"id : 2 name : Yash role : senior developer\"\n  });\n};\n\nexport default two;","map":null,"metadata":{},"sourceType":"module"}
